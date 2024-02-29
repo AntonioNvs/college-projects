@@ -1,0 +1,13 @@
+Entrega do Grupo 8, cujo tema é sobre filmes.
+
+A divisão dos notebooks são por questão, enunciada no topo de cada arquivo e também na ordem da planilha do trabalho.
+
+Os componentes são:
+
+Antônio Caetano Neves Neto (2022043698)
+
+Diogo Tuler Chaves (2022043663)
+
+João Marcos Campos (2022043728)
+
+Rafael Gomes (2022043779)

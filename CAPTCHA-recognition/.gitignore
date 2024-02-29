@@ -1,0 +1,11 @@
+CAPTCHA-10k/labels10k/
+CAPTCHA-10k/teste/
+CAPTCHA-10k/treinamento/
+CAPTCHA-10k/validacao/
+/data.csv
+/teste.ipynb
+**.npy
+**/__pycache__
+train.csv
+test.csv
+validation.csv

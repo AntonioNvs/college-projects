@@ -1,0 +1,21 @@
+Nome dos integrantes:
+
+- Antônio Caetano Neves Neto (2022043698)
+- Diogo Tuler Chaves (2022043663)
+- Raphael Aroldo Carreiro Mendes (2022043809)
+
+O critério utilizado para implementar a associatividade por conjunto foi transformar a instrução
+hexadecimal em binária, retirar os bits de offset de bloco e, com o cálculo de quantos grupos
+a cache possui, retirar o número de bits representativo de índice. Como exemplo, no cache de 4096 1024 2,
+com endereço 0x0CB886CA, como o 11° bit é 1, então é colocado no segundo grupo.
+
+O código foi feito em Python 3, no arquivo simulador.py
+Para execução em Linux, basta colocar na linha de comando os argumentos necessários. Exemplo:
+
+- python simulador.py 4096 1024 1 input.txt
+
+ou
+
+- python3 simulador.py 4096 1024 1 input.txt
+
+Depende de como o python é nomeado no computador do usuário.
